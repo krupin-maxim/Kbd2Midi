@@ -7,7 +7,7 @@ target 'Kbd2Midi' do
   
   pod 'AELog'
   pod 'AEConsole'
-  
+  pod 'RealmSwift'
 
   # Pods for Kbd2Midi
 
