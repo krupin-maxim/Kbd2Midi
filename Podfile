@@ -6,6 +6,8 @@ target 'Kbd2Midi' do
   use_frameworks!
   
   pod 'AELog'
+  pod 'AEConsole'
+  
 
   # Pods for Kbd2Midi
 

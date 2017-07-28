@@ -37,6 +37,11 @@
 		<key>Template</key>
 		<string>[{thread}] {date} {file}.{function}:{line} -- {message}</string>
 	</dict>
+	<key>AEConsole</key>
+	<dict>
+		<key>Enabled</key>
+		<true/>
+	</dict>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
