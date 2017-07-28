@@ -28,6 +28,15 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>AELog</key>
+	<dict>
+		<key>DateFormat</key>
+		<string>HH:mm:ss.SSS</string>
+		<key>Enabled</key>
+		<true/>
+		<key>Template</key>
+		<string>[{thread}] {date} {file}.{function}:{line} -- {message}</string>
+	</dict>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
