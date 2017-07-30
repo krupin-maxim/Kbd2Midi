@@ -2,15 +2,23 @@ PODS:
   - AEConsole (0.3.0):
     - AELog (~> 0.3)
   - AELog (0.3.0)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+  - RealmSwift (2.8.3):
+    - Realm (= 2.8.3)
 
 DEPENDENCIES:
   - AEConsole
   - AELog
+  - RealmSwift
 
 SPEC CHECKSUMS:
   AEConsole: bde8ae8616522b88909dff1ba7a4aa6e86568e6e
   AELog: 69608a89a1d0460ad32bba73f8e1043e12764d85
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+  RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
 
-PODFILE CHECKSUM: 56110c7d7538a1c0dbf55df5c01ae0eb3f9a1d21
+PODFILE CHECKSUM: c3ddec00d73c2c5be62b61e6661975f985a19cae
 
 COCOAPODS: 1.2.1
